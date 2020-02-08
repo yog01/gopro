@@ -1758,4 +1758,5 @@ void ResetTmpfile(void)
     memset(&Sections, 0, sizeof(Sections));
     SectionsRead = 0;
     HaveAll = 0;
+
 }
